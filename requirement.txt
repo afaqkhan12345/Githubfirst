@@ -4,3 +4,6 @@ Typing option
 colour
 Emoji
 Vibrant
+
+Dark mode
+Vedio call
